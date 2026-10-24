@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./assets/images/header.svg" alt="Ojas Jain — NSUT 2028, Software Engineering and AI/ML" width="100%" />
-  <a href="https://github.com/OjasJain777"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=21&amp;duration=2800&amp;pause=800&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=42&amp;lines=Computer+Science+%40+NSUT+%7C+Class+of+2028;C%2B%2B+%2F+Python+%7C+Learning+Java;Exploring+Backend+Engineering+%2B+AI%2FML;400%2B+DSA+Problems+Solved+%7C+Always+Learning" alt="Computer Science at NSUT, learning Java and exploring backend engineering and AI/ML" /></a>
+  <a href="https://github.com/OjasJain777"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=21&amp;duration=2800&amp;pause=800&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=42&amp;lines=Information+Technology+%40+NSUT+%7C+Class+of+2028;C%2B%2B+%2F+Python+%7C+Learning+Java;Exploring+Backend+Engineering+%2B+AI%2FML;400%2B+DSA+Problems+Solved+%7C+Always+Learning" alt="Information Technology at NSUT, learning Java and exploring backend engineering and AI/ML" /></a>
 </div>
 
 <img src="./assets/images/divider.svg" alt="" width="100%" />
